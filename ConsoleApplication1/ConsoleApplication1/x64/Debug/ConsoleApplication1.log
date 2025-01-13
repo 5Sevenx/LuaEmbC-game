@@ -1,3 +1,7 @@
 ﻿  Cpp.cpp
-C:\Users\qwert\OneDrive\Escritorio\EmbLua\ConsoleApplication1\ConsoleApplication1\Cpp.cpp(87,21): warning C4244: '=': conversion from 'lua_Number' to 'int', possible loss of data
-  ConsoleApplication1.vcxproj -> C:\Users\qwert\OneDrive\Escritorio\EmbLua\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+C:\Users\qwert\OneDrive\Escritorio\LuaCGame\ConsoleApplication1\ConsoleApplication1\Cpp.cpp(125,9): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+C:\Users\qwert\OneDrive\Escritorio\LuaCGame\ConsoleApplication1\ConsoleApplication1\Cpp.cpp(126,9): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+C:\Users\qwert\OneDrive\Escritorio\LuaCGame\ConsoleApplication1\ConsoleApplication1\Cpp.cpp(147,9): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+C:\Users\qwert\OneDrive\Escritorio\LuaCGame\ConsoleApplication1\ConsoleApplication1\Cpp.cpp(148,9): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+C:\Users\qwert\OneDrive\Escritorio\LuaCGame\ConsoleApplication1\ConsoleApplication1\Cpp.cpp(149,15): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\qwert\OneDrive\Escritorio\LuaCGame\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

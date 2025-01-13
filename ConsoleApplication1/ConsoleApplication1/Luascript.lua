@@ -1,14 +1,46 @@
 --+++++++++++++++++++++++++++++++++++++++++++++++++++ LUA script ++++++++++++++++++++++++++++++++++++++++++++++++
 
-players = {}
-players[0] = {Title = "Squire", Name = "Ciaran", Family = "Wirral", Level = 20}
-players[1] = {Title = "Lord", Name = "Diego", Family = "Brazil", Level = 50}
+--variables
+local TITLE_EMPTY = 0
+local TITLE_BLOCK = 1
 
---lua function
-function sum(a,b)
-	return a + b
-end
+function LoadLevel(host, level)
+    -- Initialize the map and size
+    local map = ""
+    local size = {w = 16, h = 15}
 
-function GetPlayer(n)
-	return players[n]
+    if level == 1 then
+        map = 
+        ".................." ..
+        ".................." ..
+        ".................." ..
+        ".................." ..
+        "...........#######" ..
+        "..............####" ..
+        "######.........###" ..
+        "##..............##" ..
+        "##...............#" ..
+        "##...............#" ..
+        "##.....###.......#" ..
+        "##################" ..
+        ".................." ..
+        ".................." ..
+        ".................."
+    end
+
+    -- C++ function to create the level
+    _CreateLevel(host, size.w, size.h)
+
+    -- Construct level tile by tile, iterating through all map
+    for y = 1, size.h do
+        for x = 1, size.w do
+            local c = string.sub(map, ((y - 1) * size.w + x), ((y - 1) * size.w + x))
+
+            if c == '.' then
+                _SetTitle(host, x - 1, y - 1, TITLE_EMPTY)
+            elseif c == '#' then
+                _SetTitle(host, x - 1, y - 1, TITLE_BLOCK)
+            end
+        end
+    end
 end

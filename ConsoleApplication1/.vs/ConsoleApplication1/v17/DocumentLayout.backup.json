@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\qwert\\OneDrive\\Escritorio\\EmbLua\\ConsoleApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\qwert\\OneDrive\\Escritorio\\LuaCGame\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9038FB32-1011-4354-A19B-625C1873FC88}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\qwert\\OneDrive\\Escritorio\\EmbLua\\ConsoleApplication1\\ConsoleApplication1\\Luascript.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{9038FB32-1011-4354-A19B-625C1873FC88}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\qwert\\OneDrive\\Escritorio\\LuaCGame\\ConsoleApplication1\\ConsoleApplication1\\Cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9038FB32-1011-4354-A19B-625C1873FC88}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9038FB32-1011-4354-A19B-625C1873FC88}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\qwert\\OneDrive\\Escritorio\\LuaCGame\\ConsoleApplication1\\ConsoleApplication1\\Luascript.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{9038FB32-1011-4354-A19B-625C1873FC88}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Luascript.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9038FB32-1011-4354-A19B-625C1873FC88}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\qwert\\OneDrive\\Escritorio\\EmbLua\\ConsoleApplication1\\ConsoleApplication1\\Cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9038FB32-1011-4354-A19B-625C1873FC88}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9038FB32-1011-4354-A19B-625C1873FC88}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\qwert\\OneDrive\\Escritorio\\LuaCGame\\ConsoleApplication1\\ConsoleApplication1\\olcPixelGameEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9038FB32-1011-4354-A19B-625C1873FC88}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\olcPixelGameEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Cpp.cpp",
-              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Escritorio\\EmbLua\\ConsoleApplication1\\ConsoleApplication1\\Cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Escritorio\\LuaCGame\\ConsoleApplication1\\ConsoleApplication1\\Cpp.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\Cpp.cpp",
-              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Escritorio\\EmbLua\\ConsoleApplication1\\ConsoleApplication1\\Cpp.cpp*",
-              "RelativeToolTip": "ConsoleApplication1\\Cpp.cpp*",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAkwFwAAAACAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Escritorio\\LuaCGame\\ConsoleApplication1\\ConsoleApplication1\\Cpp.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\Cpp.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwI4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-04T16:54:00.922Z",
               "IsPinned": true,
@@ -36,13 +40,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Luascript.lua",
-              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Escritorio\\EmbLua\\ConsoleApplication1\\ConsoleApplication1\\Luascript.lua",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Escritorio\\LuaCGame\\ConsoleApplication1\\ConsoleApplication1\\Luascript.lua",
               "RelativeDocumentMoniker": "ConsoleApplication1\\Luascript.lua",
-              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Escritorio\\EmbLua\\ConsoleApplication1\\ConsoleApplication1\\Luascript.lua*",
-              "RelativeToolTip": "ConsoleApplication1\\Luascript.lua*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Escritorio\\LuaCGame\\ConsoleApplication1\\ConsoleApplication1\\Luascript.lua",
+              "RelativeToolTip": "ConsoleApplication1\\Luascript.lua",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-05T14:50:52.339Z",
               "IsPinned": true,
@@ -51,6 +55,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "olcPixelGameEngine.h",
+              "DocumentMoniker": "C:\\Users\\qwert\\OneDrive\\Escritorio\\LuaCGame\\ConsoleApplication1\\ConsoleApplication1\\olcPixelGameEngine.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\olcPixelGameEngine.h",
+              "ToolTip": "C:\\Users\\qwert\\OneDrive\\Escritorio\\LuaCGame\\ConsoleApplication1\\ConsoleApplication1\\olcPixelGameEngine.h",
+              "RelativeToolTip": "ConsoleApplication1\\olcPixelGameEngine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-12T21:08:46.021Z",
+              "EditorCaption": ""
             }
           ]
         }
